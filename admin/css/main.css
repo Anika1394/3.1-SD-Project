@@ -1,0 +1,152 @@
+.navbar-nav{
+    margin left: 10px;
+	
+	
+}
+.navbar1{
+    background-color: #FF3368;
+	margin-bottom:20px;
+	
+}
+.my-nav{
+    background-color: #FEAEC7;
+	
+	
+}
+
+.navbar2{
+    background-color:#FEAEC7;
+	margin-bottom:20px;
+	
+}
+.my-nav1{
+    background-color: #FEAEC7;
+	
+	
+}
+.logo{
+    font-family:Brush Script MT, Brush Script Std, cursive;
+	margin-left:0px;
+	font-weight:bold;
+	text-shadow: 2px 2px #ffffff ;
+	
+}
+
+.heading{
+	font-family:Brush Script MT, Brush Script Std, cursive;
+	margin: 40px;
+	font-size: 60px;
+	font-weight:bold;
+	text-shadow: 2px 2px #ff0000;
+}
+.home{
+    font-weight:bold;
+	margin-left:20px;
+	margin-bottom:0px;
+	margin-right:10px;
+	margin-top:12px;
+	color:black;
+	
+
+}
+.dropdown{
+	
+    font-weight:bold;
+	padding:20px;
+}
+.dropdown-toggle{
+	color:black;
+	
+}
+.menu_color{
+	 background-color:#FEAEC7;
+}
+
+.navbar-nav{
+	color:black;
+}
+
+.slide{
+	height:500px;
+	
+}
+  
+   
+.dash{
+	margin-bottom:40px;
+	margin-top:40px;
+	background-color:#928B8C;
+}
+
+.heading1{
+	font-family:Stencil Std, fantasy;
+	margin-bottom:20px;
+	margin-top:20px;
+	font-size: 40px;
+	background-color:#FEAEC7;
+}
+
+.product_color{
+	color:Black;
+	margin-top:10px;
+	text-decoration:none;
+}
+
+.card-img-top{
+	height:200px;
+}
+
+.brands{
+	color:#FF3368;
+}
+.note{
+	font-weight:bold;
+	font-size:20px;
+}
+
+.info{
+	height:300px;
+}
+
+.footer{
+	height:150px;
+	background-color: #FF3368 ;
+
+	
+}
+
+.footer1{
+	
+	background-color: #FF3368;
+	
+}
+
+.footer2{
+	
+	background-color: #FF3368;
+		height:100px;
+		margin-top:20px;
+}
+
+.main-footer {
+   
+	background-color: #FF3368;
+	height:100px;
+}
+.copyright{
+	margin:10px;
+}
+
+
+.act{
+	background-color:#FF3368;
+	color: white;
+}
+
+.acts{
+	color:black;
+}
+.dashboard-color{
+	color:gray;
+}
+
